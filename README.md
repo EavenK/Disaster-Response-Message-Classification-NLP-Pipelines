@@ -21,7 +21,7 @@ The data has been encoded with 36 different categories related to disaster respo
 
 This project is divided in the following key sections:
 
-1. ETL pipeline for data pre-processing and cleaning. Data is saved on SQLite DB
+1. ETL pipeline for data pre-processing and cleaning. Data is saved into SQLite DB
 2. Machine Learning pipeline for text classification
 3. Web App to show model results in real time
 
